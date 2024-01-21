@@ -25,42 +25,43 @@ This supplementary data accompanies the paper titled "Large Language Model Based
 
 ---
 
+# Supplementary Materials
+
 ## Contents:
 
-1. **Data Folder:**
-   - *Dataset_A*: Raw unstructured data used for model training and evaluation.
-   - *Dataset_B*: Additional dataset for robustness testing.
-   
-2. **Code Folder:**
-   - *Model_Training_Code.py*: Python script for training the large language model.
-   - *Evaluation_Scripts*: Code snippets for assessing model performance.
-   
-3. **Results Folder:**
-   - *Experiment_Results.pdf*: Summary of experimental outcomes and key findings.
-   - *Performance_Metrics.xlsx*: Detailed metrics, including precision, recall, and F-score.
+1. **Algorithm.docx:**
+   - This Word document includes three algorithms for our GIX framework: pre-processing, relation extraction, and post-processing.
 
-4. **Supplementary_Materials Folder:**
-   - *Additional_Figures*: Extra figures supporting experimental results.
-   - *Extended_Analysis.pdf*: In-depth analysis extending discussions in the main paper.
+2. **Extracted Regulations - Experiment - Comparison of GIX with manual curation of a benchmark dataset.xlsx:**
+   - Excel file with results from the experiment comparing GIX with manual curation of a benchmark dataset, including extracted regulations and augmented sentences.
 
----
+3. **Extracted Regulations - Experiment - Comparison of GIX with manual curation of a real-world database.xlsx:**
+   - Excel file with results from the experiment comparing GIX with manual curation of a real-world database, including extracted regulations.
 
-## How to Use:
+4. **Training_Data_Relation_Classification.xlsx:**
+   - Excel file containing data used to train the relation classification model in our framework. Includes labeled sentences for relation extraction from BioInfer, HPRD50, IEPA, and LLL datasets.
 
-- **Data Folder:** Raw datasets are provided for transparency and reproducibility. Refer to the paper for details on dataset preparation.
+5. **Training_Data_Sentence_Eliminator_1.xlsx:**
+   - Excel file containing data used to train "Sentence Eliminator 1" in the pre-processing stage of our framework.
 
-- **Code Folder:** Use the provided Python script for model training. Evaluation scripts demonstrate how performance metrics were calculated.
+6. **Unwanted Words - Excel:**
+   - Excel file with a list of the most repetitive non-entity words.
 
-- **Results Folder:** Explore the experiment results in the PDF file and delve into detailed metrics in the Excel sheet.
+7. **ExGI:**
+   - Python code file containing the implementation of GIX relation extraction.
 
-- **Supplementary_Materials Folder:** Additional figures and extended analysis provide further insights beyond the main paper.
 
----
 
-Please refer to the main paper for a comprehensive understanding of the framework, methodologies, and results. If you have any inquiries or require clarification, feel free to contact the corresponding authors: Jaskaran Gill (j.gill@email.com) and Madhu Chetty (mchetty@email.com).
+Please refer to the main paper for a comprehensive understanding of the framework, methodologies, and results. If you have any inquiries or require clarification. 
+## Citation:
 
----
+If you use or refer to the materials provided here in your research, please cite the original paper:
+
+Author(s): Jaskaran Gill, Madhu Chetty, Suryani Lim, Jennifer Hallinan
+
+Title: "Large Language Model Based Framework for Automated Extraction of Genetic Interactions from Unstructured Data"
+
+Published in: [Journal Name, Volume, Page, Year, DOI]
 
 Thank you for your interest in our research!
 
----
