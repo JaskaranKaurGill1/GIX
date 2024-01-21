@@ -2,7 +2,7 @@
 
 ---
 
-## Supplementary Data for Paper Submission
+## Supplementary Data
 
 ### Title: 
 Large Language Model Based Framework for Automated Extraction of Genetic Interactions from Unstructured Data
