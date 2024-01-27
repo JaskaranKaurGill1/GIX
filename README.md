@@ -21,7 +21,7 @@ Large Language Model Based Framework for Automated Extraction of Genetic Interac
 
 ## Abstract:
 
-This supplementary data accompanies the paper titled "Large Language Model Based Framework for Automated Extraction of Genetic Interactions from Unstructured Data" submitted to PLOS ONE. The paper explores a novel framework utilizing large language models for the automated extraction of genetic interactions from unstructured data. The authors present findings from experiments conducted at the Health Innovation and Transformation Centre, Federation University, Victoria, Australia, and BioThink, Queensland, Australia.
+This supplementary data accompanies the paper titled "Large Language Model Based Framework for Automated Extraction of Genetic Interactions from Unstructured Data" submitted to PLOS ONE. The paper proposes a novel framework utilising large language models for the automated extraction of genetic interactions from unstructured data. The authors present findings from experiments conducted at the Health Innovation and Transformation Centre, Federation University, Victoria, Australia, and BioThink, Queensland, Australia.
 
 ---
 
