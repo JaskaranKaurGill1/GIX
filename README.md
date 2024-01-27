@@ -32,10 +32,10 @@ This supplementary data accompanies the paper titled "Large Language Model Based
 1. **Algorithm.docx:**
    - This Word document includes three algorithms for our GIX framework: pre-processing, relation extraction, and post-processing.
 
-2. **Extracted Regulations - Experiment - Comparison of GIX with manual curation of a benchmark dataset.xlsx:**
+2. **Extracted Regulations - Experiment Exp2 - Comparison of GIX with manual curation of a benchmark dataset.xlsx:**
    - Excel file with results from the experiment comparing GIX with manual curation of a benchmark dataset, including extracted regulations and augmented sentences.
 
-3. **Extracted Regulations - Experiment - Comparison of GIX with manual curation of a real-world database.xlsx:**
+3. **Extracted Regulations - Experiment Exp3 - Comparison of GIX with manual curation of a real-world database.xlsx:**
    - Excel file with results from the experiment comparing GIX with manual curation of a real-world database, including extracted regulations.
 
 4. **Training_Data_Relation_Classification.xlsx:**
