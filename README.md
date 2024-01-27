@@ -29,8 +29,8 @@ This supplementary data accompanies the paper titled "Large Language Model Based
 
 ## Contents:
 
-1. **Algorithm.docx:**
-   - This Word document includes three algorithms for our GIX framework: pre-processing, relation extraction, and post-processing.
+1. **Pseudocode.docx:**
+   - This Word document includes three Pseudocode for our GIX framework: pre-processing, relation extraction, and post-processing.
 
 2. **Extracted Regulations - Experiment Exp2 - Comparison of GIX with manual curation of a benchmark dataset.xlsx:**
    - Excel file with results from the experiment comparing GIX with manual curation of a benchmark dataset, including extracted regulations and augmented sentences.
