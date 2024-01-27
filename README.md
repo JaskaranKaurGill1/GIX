@@ -49,12 +49,15 @@ This supplementary data accompanies the paper titled "Large Language Model Based
 
 7. **Gene Interaction Extraction Framework (Code):**
    - Python code file containing the implementation of GIX relation extraction.
+
+8. **E_Coli_RegulonDB_regs.xlsx**
+  - This file contains Transcriptional regulations in Escherichia coli (E. Coli) obtained from RegulonDB.
   
-8. **relation_extraction_f.pth**
-  - Description: This file contains the pre-trained model for fine-tunned for gene relation extraction (Stage-2 of GIX: Relation Extraction). 
+9. **relation_extraction_f.pth**
+  - This file contains the pre-trained model for fine-tunned for gene relation extraction (Stage-2 of GIX: Relation Extraction). 
   
-- **sentence_classification_f.pth**
-  - Description: This file contains the pre-trained model fine tuned to eliminate sentences that do not dictate a regulatory interaction (Stage-1 of GIX: Pre-processing).
+10. **sentence_classification_f.pth**
+  - This file contains the pre-trained model fine tuned to eliminate sentences that do not dictate a regulatory interaction (Stage-1 of GIX: Pre-processing).
   
 
 Please refer to the main paper for a comprehensive understanding of the framework, methodologies, and results. If you have any inquiries or require clarification. 
