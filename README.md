@@ -8,10 +8,10 @@
 Large Language Model Based Framework for Automated Extraction of Genetic Interactions from Unstructured Data
 
 ### Authors:
-- Jaskaran Gill
-- Madhu Chetty
-- Suryani Lim
-- Jennifer Hallinan
+- Jaskaran Gill<sup>1</sup>
+- Madhu Chetty<sup>1</sup>
+- Suryani Lim<sup>1</sup>
+- Jennifer Hallinan<sup>1,2</sup>
 
 **Affiliations:**
 1. Health Innovation and Transformation Centre, Federation University, Victoria, Australia
@@ -47,21 +47,11 @@ This supplementary data accompanies the paper titled "Large Language Model Based
 6. **Unwanted Words - Excel:**
    - Excel file with a list of the most repetitive non-entity words.
 
-7. **ExGI:**
+7. **Gene Interaction Extraction Framework (Code):**
    - Python code file containing the implementation of GIX relation extraction.
 
 
 
 Please refer to the main paper for a comprehensive understanding of the framework, methodologies, and results. If you have any inquiries or require clarification. 
-## Citation:
 
-If you use or refer to the materials provided here in your research, please cite the original paper:
-
-Author(s): Jaskaran Gill, Madhu Chetty, Suryani Lim, Jennifer Hallinan
-
-Title: "Large Language Model Based Framework for Automated Extraction of Genetic Interactions from Unstructured Data"
-
-Published in: [Journal Name, Volume, Page, Year, DOI]
-
-Thank you for your interest in our research!
 
