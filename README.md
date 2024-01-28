@@ -48,7 +48,7 @@ This supplementary data accompanies the paper titled "Large Language Model Based
    - Excel file with a list of the most repetitive non-entity words.
 
 7. **Gene Interaction Extraction Framework (Code):**
-   - Python code file containing the implementation of GIX relation extraction.
+   - Python code file containing the implementation of GIX relation extraction. The code execution instructions are provided within the file.
 
 8. **E_Coli_RegulonDB_regs.xlsx**
   - This file contains Transcriptional regulations in Escherichia coli (E. Coli) obtained from RegulonDB.
